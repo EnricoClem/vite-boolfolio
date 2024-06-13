@@ -24,7 +24,7 @@ export default {
   <div id="app">
     <AppHeader></AppHeader>
     <AppContent></AppContent>
-    <AppFooter></AppFooter>
+    <!-- <AppFooter></AppFooter> -->
 
   </div>
 

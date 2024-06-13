@@ -14,9 +14,9 @@ export default {
 <template>
 
   <header>
-    <section class="bg-dark">
+    <section class="bg-primary">
       <div class="container py-5 text-center text-white">
-        <h1>HEADER</h1>
+        <h1>Projects</h1>
       </div>
     </section>
   </header>
